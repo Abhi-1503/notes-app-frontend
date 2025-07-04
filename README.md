@@ -9,6 +9,16 @@ This is a full-stack note-taking application that allows users to sign up or log
 
 ---
 
+
+## 🔗 Live Links
+
+🌐 Frontend (Vercel): [notes-app-frontend.vercel.app](https://notes-app-frontend-sandy.vercel.app/)
+
+🔧 Backend (Render): [notes-app-backend.onrender.com](https://notes-app-backend-hs78.onrender.com)
+
+
+
+
 ## 📦 Project Structure
 
 notes-app/
