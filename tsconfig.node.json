@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "target": "ES6",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "composite": true,
+    "outDir": "./dist/app",
+    "noEmit": false,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
