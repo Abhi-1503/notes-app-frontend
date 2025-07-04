@@ -2,9 +2,10 @@
   "compilerOptions": {
     "strict": true,
     "target": "ESNext",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
     "module": "CommonJS",
     "moduleResolution": "node",
-    "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
